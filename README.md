@@ -1,6 +1,6 @@
 # Private Internet Sicherheit
 
-Sicherheit bezeichnet allgemein den Zustand, der für Individuen, Gemeinschaften sowie andere Lebewesen, Objekte und Systeme frei von unvertretbaren Risiken ist oder als gefahrenfrei angesehen wird. (Quelle [Wikipedia](https://de.wikipedia.org/wiki/Sicherheit))
+Sicherheit bezeichnet allgemein den Zustand, der für Individuen, Gemeinschaften sowie andere Lebewesen, Objekte und Systeme frei von unvertretbaren Risiken ist oder als gefahrenfrei angesehen wird. (Quelle: [Wikipedia](https://de.wikipedia.org/wiki/Sicherheit))
 
 Sie, ganz persönlich, entscheiden was für Sie ein unvertretbares Risiko bzw. gefahrenfrei ist. Wir wollen mit dieser Seite eine Entscheidungshilfe und Einordnung bereitstellen.
 
