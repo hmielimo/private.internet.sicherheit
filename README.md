@@ -13,11 +13,11 @@
 
 ## Einleitung
 
-In Private Internet Sicherheit geht es um Ihr ganz individuelles bzw. persönliches Sicherheitsgefühl im Internet. Ja ich schreibe bewußt Gefühl (*siehe dazu auch [Sicherheit](https://de.wikipedia.org/wiki/Sicherheit) in Bezug auf Risiko- und Gefahrenvermeidung*). Das zweite Schlüsselwort hier ist Internet. Natürlich kann man sich auch hier technisch nähern (*siehe [Wikipedia](https://de.wikipedia.org/wiki/Internet)*) das möchten wir allerdings nicht tun. Auch das Internet soll in diesem Kontext eher "gefühlt" als "verstanden" werden. Dazu später mehr.
+In Private Internet Sicherheit geht es um Ihr ganz individuelles bzw. persönliches Sicherheitsgefühl im Internet. Ja ich schreibe bewusst Gefühl (*siehe dazu auch [Sicherheit](https://de.wikipedia.org/wiki/Sicherheit) in Bezug auf Risiko- und Gefahrenvermeidung*). Das zweite Schlüsselwort hier ist Internet. Natürlich kann man sich auch hier technisch nähern (*siehe [Wikipedia](https://de.wikipedia.org/wiki/Internet)*) das möchten wir allerdings nicht tun. Auch das Internet soll in diesem Kontext eher "gefühlt" als "verstanden" werden. Dazu später mehr.
 
 Es soll also im Wesentlichen darum gehen Sie in die Lage zu versetzen die für Sie persönlich relevanten Risiken in Bezug auf Ihre Internetaktivitäten erkennen und bewerten zu können.
 
-In weiteren vertiefenden Kapiteln werden wir auch konkrete Maßnahmen vorstellen um ggf. erkannte Risiken abzumildern.
+In weiteren vertiefenden Kapiteln werden wir auch konkrete Massnahmen vorstellen um ggf. erkannte Risiken abzumildern.
 
 Es geht also ausschließlich um Sie.
 
@@ -35,7 +35,7 @@ Leider sind die hier angesprochenen Themen (*Update, Passwörter, Zwei-Faktor-Au
 
 ## Das Internet
 
-Wie ja bereits angesprochen geht es hier nicht um eine technische Erklärung. Vielmehr möchten wir dass Sie sicht bewußt machen, dass das Internet eine eigene "Welt" darstellt. Eine Welt mit eigenen "Regeln".
+Wie ja bereits angesprochen geht es hier nicht um eine technische Erklärung. Vielmehr möchten wir dass Sie sicht bewusst machen, dass das Internet eine eigene "Welt" darstellt. Eine Welt mit eigenen "Regeln".
 
 [<img alt="Das Internet - eine eigene Welt" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Internet_map_1024.jpg" title="Das Internet - eine eigene Welt" width="100%">](https://de.wikipedia.org/wiki/Internet)
 
@@ -47,9 +47,9 @@ Die reale Welt in der wir uns natürlicherweise bewegen kann man in folgende "R�
 -	Lokal (*z.B. Husum, [Platt](https://de.wikipedia.org/wiki/Platt)*)
 -	Privat (*Haus bzw. Wohnung, Internet der Dinge (z.B. Saugroboter)*)
 
-In diesen "Räumen" bewegen Sie sich i.d.R. bewußt bzw. Sie erkennen z.B. bei einem Skiausflug mit dem Auto von [Husum nach Chamonix](https://goo.gl/maps/uKD5RS1XtfDabtt16) sehr konkret sich verändernde Sprachen oder ähnliches wie z.B. Verkehrsregeln.
+In diesen "Räumen" bewegen Sie sich i.d.R. bewusst bzw. Sie erkennen z.B. bei einem Skiausflug mit dem Auto von [Husum nach Chamonix](https://goo.gl/maps/uKD5RS1XtfDabtt16) sehr konkret sich verändernde Sprachen oder ähnliches wie z.B. Verkehrsregeln.
 
-Machen Sie sich einfach bewußt, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
+Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
 
 Das illustriert ein wenig wo ggf. Risiken im Internet entstehen können. Wenn z.B. das Rechtsverständnis eines Deutschen mit der [Scharia (*das islamische Gesetz*)](https://de.wikipedia.org/wiki/Scharia) in Berührung kommt.
 
@@ -70,7 +70,7 @@ Die im Kapitel [Sicherheit](#sicherheit) angesprochenen technischen Begriffe (*U
 
 Basierend auf Ihrer persönlichen Risikobereitschaft können Sie jetzt z.B. bestimmen ob Sie gerne einen stabileren Zaun (*Firewall*) anschaffen möchten damit Ihre Kinder sicherer in Ihrem Garten spielen können.
 
-Machen Sie sich einfach bewußt, **warum** (*damit Ihre Kinder sicherer in Ihrem Garten spielen können*) Sie **was** (*Zaun*) **wie** (*stabiler*) verändern.
+Machen Sie sich einfach bewusst, **warum** Sie **was**, **wie** verändern möchten.
 
 ## weitere Informationen
 
