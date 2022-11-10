@@ -62,9 +62,10 @@ In unserem Gedankengerüst leben Sie in einem freistehenden Haus mit Garten.
 [<img alt="Haus mit Garten" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Radebeul_Grundhof56a.jpg" title="Haus mit Garten" width="100%">](https://de.wikipedia.org/wiki/Haus_im_Garten)
 
 In Ihrem großzügigen Garten lebt ihr Wachhund (*Virenschutzprogramm*) und der Gartenzaun (*Firewall*) sorgt dafür, dass weder Hund noch Kind auf die Straße laufen können (*Schutz von innen nach außen*) noch ungebetene Dritte auf Ihr Grundstück (*Schutz von außen nach innen*) kommen können.
-Ihre Haustür verschließen Sie immer sorgfältig mit Ihrem Hausschlüssel (*Passwort*) und beim Notartermin, als Sie dieses Haus gekauft haben, war Ausweis und Grundbuchauszug (*Zwei-Faktor-Authentisierung*) zwingend notwendig.
 
-Wenn Sie den Hausarzt Ihres Vertrauens aufsuchen, wissen Sie, dass dieser mit aktuellem (*Update*) medizinischem Wissen ausgestattet, Ihnen helfen wird.
+Ihre Haustür verschließen Sie immer sorgfältig mit Ihrem Hausschlüssel (*Passwort*) und wenn Sie das Haus für längere Zeit (*z.B. Urlaub*) verlassen kommt zusätzlich zum Hausschlüssel ein [Querriegelschloss](https://de.wikipedia.org/wiki/Querriegelschloss) mit gesondertem Schlüssel (*Zwei-Faktor-Authentisierung*) zum Einsatz.
+
+Wenn Sie den Hausarzt Ihres Vertrauens aufsuchen, erwarten Sie, dass dieser mit aktuellem medizinischem Wissen (*Update*) ausgestattet ist und Ihnen dadurch gut helfen kann.
 
 Die im Kapitel [Sicherheit](#sicherheit) angesprochenen technischen Begriffe (*Update, Passwörter, Zwei-Faktor-Authentisierung, Virenschutzprogramm, Firewall*) sind jetzt hoffentlich leichter für Sie fassbar.
 
