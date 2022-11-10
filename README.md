@@ -13,7 +13,7 @@
 
 ## Einleitung
 
-In Private Internet Sicherheit geht es um Ihr ganz individuelles bzw. persönliches Sicherheitsgefühl im Internet. Ja ich schreibe bewußt Gefühl (*siehe dazu auch [Sicherheit](https://de.wikipedia.org/wiki/Sicherheit)) in Bezug auf Risiko- und Gefahrenvermeidung*). Das zweite Schlüsselwort hier ist Internet. Natürlich kann man sich auch hier technisch nähern (*siehe [Wikipedia](https://de.wikipedia.org/wiki/Internet)*) das möchten wir allerdings nicht tun. Auch das Internet soll in diesem Kontext eher "gefühlt" als "verstanden" werden. Dazu später mehr.
+In Private Internet Sicherheit geht es um Ihr ganz individuelles bzw. persönliches Sicherheitsgefühl im Internet. Ja ich schreibe bewußt Gefühl (*siehe dazu auch [Sicherheit](https://de.wikipedia.org/wiki/Sicherheit) in Bezug auf Risiko- und Gefahrenvermeidung*). Das zweite Schlüsselwort hier ist Internet. Natürlich kann man sich auch hier technisch nähern (*siehe [Wikipedia](https://de.wikipedia.org/wiki/Internet)*) das möchten wir allerdings nicht tun. Auch das Internet soll in diesem Kontext eher "gefühlt" als "verstanden" werden. Dazu später mehr.
 
 Es soll also im Wesentlichen darum gehen Sie in die Lage zu versetzen die für Sie persönlich relevanten Risiken in Bezug auf Ihre Internetaktivitäten erkennen und bewerten zu können.
 
