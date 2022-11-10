@@ -74,6 +74,13 @@ Machen Sie sich einfach bewußt, **warum** (*damit Ihre Kinder sicherer in Ihrem
 
 ## weitere Informationen
 
+### Vertiefung einiger Risikobereiche
+
+- Firewall (*[FRITZ!Box 4040 und Netzwerkaufbau – OpenWrt](https://www.kuketz-blog.de/fritzbox-4040-und-netzwerkaufbau-openwrt-teil1/), [DNS based ad/abuse domain blocking](https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md)*)
+- Passwort (*[Passwort-Manager](https://www.kuketz-blog.de/empfehlungsecke/#passwort-manager), [Diceware](https://de.wikipedia.org/wiki/Diceware)*)
+
+
+### Videos (*Komplexität ganz einfach erklärt*)
 - [Wie funktioniert das Internet?](https://www.youtube.com/watch?v=fpqhjEtznVk)
 - [Der Internet-Check ](https://www.youtube.com/watch?v=i7cYePelQH4)
 - [Wie kommen die Daten in die Cloud?](https://www.youtube.com/watch?v=eJE_32_5SfE)
