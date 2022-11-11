@@ -56,7 +56,7 @@ Leider ist das bei einem Webseiten-Besuch, hier am Beispiel [tschibo.de](https:/
 - [use.typekit.net](https://tools.keycdn.com/geo?host=use.typekit.net) (*Frankfurt am Main*)
 - [www.googletagmanager.com](https://tools.keycdn.com/geo?host=www.googletagmanager.com) (*USA*)
 
-gehen Ihrerseit wieder verschiedene Wege ... Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
+gehen Ihrerseits wieder verschiedene Wege ... Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
 
 Das illustriert ein wenig wo ggf. Risiken im Internet entstehen können. Wenn z.B. das Rechtsverständnis eines Deutschen mit der [Scharia (*das islamische Gesetz*)](https://de.wikipedia.org/wiki/Scharia) in Berührung kommt.
 
