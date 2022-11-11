@@ -49,7 +49,8 @@ Die reale Welt in der wir uns natürlicherweise bewegen kann man in folgende "R�
 
 In diesen "Räumen" bewegen Sie sich i.d.R. bewusst bzw. Sie erkennen z.B. bei einem Skiausflug mit dem Auto von [Husum nach Chamonix](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=54.485%2C9.054%3B45.925%2C6.873) sehr konkret sich verändernde Sprachen oder ähnliches wie z.B. Verkehrsregeln.
 
-Leider ist das bei einem Webseiten-Besuch, hier am Beispiel [tchibo.de](https://www.tchibo.de/), nicht ganz so transparent. So führte mich das Beispiel [tchibo.de](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Ftchibo.de) nach Stockholm in Schweden und bog im Hintergrund 13 Mal für Anfragen bei Drittanbietern vom "Weg" ab. Diese Drittanbieter
+Leider ist das bei einem Webseiten-Besuch, hier am Beispiel [tchibo.de (*dieser Link führt zur Webseite des Unternehmens*)](https://www.tchibo.de/), nicht ganz so transparent. So führte mich das Beispiel [tchibo.de (*dieser Link überprüft Datenschutzfunktionen)*](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Ftchibo.de) nach Frankfurt am Main und bog im Hintergrund 13 Mal für Anfragen bei Drittanbietern vom "Weg" ab. Diese Drittanbieter
+
 - [cdn.cookielaw.org](https://tools.keycdn.com/geo?host=cdn.cookielaw.org) (*?*)
 - [geolocation.onetrust.com ](https://tools.keycdn.com/geo?host=geolocation.onetrust.com) (*USA*)
 - [p.typekit.net](https://tools.keycdn.com/geo?host=p.typekit.net) (*Frankfurt am Main*)
