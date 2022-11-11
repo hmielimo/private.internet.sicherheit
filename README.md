@@ -90,8 +90,6 @@ Der [Verbraucherschutz-Newsletter "Sicher • Informiert"](https://www.bsi.bund.
 
 [Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
 
-https://webbkoll.dataskydd.net/de
-
 ### Vertiefung einiger Risikobereiche
 
 - Firewall (*[FRITZ!Box 4040 und Netzwerkaufbau – OpenWrt](https://www.kuketz-blog.de/fritzbox-4040-und-netzwerkaufbau-openwrt-teil1/), [DNS based ad/abuse domain blocking](https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md)*)
