@@ -47,9 +47,16 @@ Die reale Welt in der wir uns natürlicherweise bewegen kann man in folgende "R�
 -	Lokal (*z.B. Husum, [Platt](https://de.wikipedia.org/wiki/Platt)*)
 -	Privat (*Haus bzw. Wohnung, Internet der Dinge (z.B. Saugroboter)*)
 
-In diesen "Räumen" bewegen Sie sich i.d.R. bewusst bzw. Sie erkennen z.B. bei einem Skiausflug mit dem Auto von [Husum nach Chamonix](https://goo.gl/maps/uKD5RS1XtfDabtt16) sehr konkret sich verändernde Sprachen oder ähnliches wie z.B. Verkehrsregeln.
+In diesen "Räumen" bewegen Sie sich i.d.R. bewusst bzw. Sie erkennen z.B. bei einem Skiausflug mit dem Auto von [Husum nach Chamonix](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=54.485%2C9.054%3B45.925%2C6.873) sehr konkret sich verändernde Sprachen oder ähnliches wie z.B. Verkehrsregeln.
 
-Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
+Leider ist das bei einem Webseiten-Besuch, hier am Beispiel [tschibo.de](https://www.tchibo.de/), nicht ganz so transparent. So führte mich das Beispiel [tschibo.de](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Ftschibo.de) nach Stockholm in Schweden und bog im Hintergrund 13 Mal für Anfragen bei Drittanbietern vom "Weg" ab. Diese Drittanbieter
+- [cdn.cookielaw.org](https://tools.keycdn.com/geo?host=cdn.cookielaw.org) (*?*)
+- [geolocation.onetrust.com ](https://tools.keycdn.com/geo?host=geolocation.onetrust.com) (*USA*)
+- [p.typekit.net](https://tools.keycdn.com/geo?host=p.typekit.net) (*Frankfurt am Main*)
+- [use.typekit.net](https://tools.keycdn.com/geo?host=use.typekit.net) (*Frankfurt am Main*)
+- [www.googletagmanager.com](https://tools.keycdn.com/geo?host=www.googletagmanager.com) (*USA*)
+
+gehen Ihrerseit wieder verschiedene Wege ... Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
 
 Das illustriert ein wenig wo ggf. Risiken im Internet entstehen können. Wenn z.B. das Rechtsverständnis eines Deutschen mit der [Scharia (*das islamische Gesetz*)](https://de.wikipedia.org/wiki/Scharia) in Berührung kommt.
 
@@ -73,7 +80,17 @@ Basierend auf Ihrer persönlichen Risikobereitschaft können Sie jetzt z.B. best
 
 Machen Sie sich einfach bewusst, **warum** Sie **was**, **wie** verändern möchten.
 
+Am Ende möchte ich Ihnen zu diesem Themenkomplex den Kommentar [Digitale Selbstbestimmung – Eine Einordnung](https://www.kuketz-blog.de/kommentar-digitale-selbstbestimmung-eine-einordnung/) von [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg*) empfehlen. Mike Kuketz hat auch eine Veröffentlichung über [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil2/) schauen Sie bei Interesse gerne mal rein.
+
+
+
 ## weitere Informationen
+
+Der [Verbraucherschutz-Newsletter "Sicher • Informiert"](https://www.bsi.bund.de/dok/6722626) richtet sich an alle, die über die wichtigsten Ereignisse rund um die Sicherheit Ihres Computers und im Internet auf dem Laufenden gehalten werden wollen. Der Newsletter erscheint alle vierzehn Tage. Im Falle einer besonders akuten Gefahrensituation informieren wir Sie unmittelbar mit einer Extraausgabe des Newsletters. Alle Informationen werden leicht verständlich erklärt.
+
+[Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
+
+https://webbkoll.dataskydd.net/de
 
 ### Vertiefung einiger Risikobereiche
 
