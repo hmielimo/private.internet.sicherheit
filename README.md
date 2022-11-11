@@ -80,7 +80,7 @@ Basierend auf Ihrer persönlichen Risikobereitschaft können Sie jetzt z.B. best
 
 Machen Sie sich einfach bewusst, **warum** Sie **was**, **wie** verändern möchten.
 
-Am Ende möchte ich Ihnen zu diesem Themenkomplex den Kommentar [Digitale Selbstbestimmung – Eine Einordnung](https://www.kuketz-blog.de/kommentar-digitale-selbstbestimmung-eine-einordnung/) von [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Neben meiner freiberuflichen Tätigkeit bin ich zu 50 % bei der Dienststelle des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) angestellt.*) empfehlen. Mike Kuketz hat auch eine Veröffentlichung über [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil2/) schauen Sie bei Interesse gerne mal rein.
+Am Ende möchte ich Ihnen zu diesem Themenkomplex den Kommentar [Digitale Selbstbestimmung – Eine Einordnung](https://www.kuketz-blog.de/kommentar-digitale-selbstbestimmung-eine-einordnung/) von [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Neben seiner freiberuflichen Tätigkeit ist Mike zu 50 % bei der Dienststelle des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) angestellt.*) empfehlen. Mike Kuketz hat auch eine Veröffentlichung über [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil2/) schauen Sie bei Interesse gerne mal rein.
 
 
 
@@ -88,7 +88,7 @@ Am Ende möchte ich Ihnen zu diesem Themenkomplex den Kommentar [Digitale Selbst
 
 - [Bundesamt für Sicherheit in der Informationstechnik (*BSI*)](https://www.bsi.bund.de/DE/Das-BSI/Auftrag/auftrag_node.html)
   - Der [Verbraucherschutz-Newsletter "Sicher • Informiert"](https://www.bsi.bund.de/dok/6722626) richtet sich an alle, die über die wichtigsten Ereignisse rund um die Sicherheit Ihres Computers und im Internet auf dem Laufenden gehalten werden wollen. Der Newsletter erscheint alle vierzehn Tage. Im Falle einer besonders akuten Gefahrensituation informieren wir Sie unmittelbar mit einer Extraausgabe des Newsletters. Alle Informationen werden leicht verständlich erklärt.
-- [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Neben meiner freiberuflichen Tätigkeit bin ich zu 50 % bei der Dienststelle des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) angestellt.*)
+- [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Neben seiner freiberuflichen Tätigkeit ist Mike zu 50 % bei der Dienststelle des Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) angestellt.*)
   - [Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
 
 ### Vertiefung einiger Risikobereiche
