@@ -58,7 +58,7 @@ Leider ist das bei einem Webseiten-Besuch, hier am Beispiel [tchibo.de](https://
 
 gehen Ihrerseits wieder verschiedene Wege ... Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
 
-Das illustriert ein wenig wo ggf. Risiken im Internet entstehen können. Wenn z.B. das Rechtsverständnis eines Deutschen mit der [Scharia (*das islamische Gesetz*)](https://de.wikipedia.org/wiki/Scharia) in Berührung kommt.
+Das illustriert ein wenig wo ggf. Risiken im Internet entstehen können. 
 
 ## Privat
 
