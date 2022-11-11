@@ -13,7 +13,7 @@
 
 ## Einleitung
 
-In Private Internet Sicherheit geht es um Ihr ganz individuelles bzw. persönliches Sicherheitsgefühl im Internet. Ja ich schreibe bewusst Gefühl (*siehe dazu auch [Sicherheit](https://de.wikipedia.org/wiki/Sicherheit) in Bezug auf Risiko- und Gefahrenvermeidung*). Das zweite Schlüsselwort hier ist Internet. Natürlich kann man sich auch hier technisch nähern (*siehe [Wikipedia](https://de.wikipedia.org/wiki/Internet)*) das möchten wir allerdings nicht tun. Auch das Internet soll in diesem Kontext eher "gefühlt" als "verstanden" werden. Dazu später mehr.
+In Private Internet Sicherheit geht es um Ihr ganz individuelles bzw. persönliches Sicherheitsgefühl im Internet. Ja ich (*[Heinz Mielimonka](https://meine.kommunikation-im-zentrum.de/nextcloud/u/Heinz.Mielimonka)*) schreibe bewusst Gefühl (*siehe dazu auch [Sicherheit](https://de.wikipedia.org/wiki/Sicherheit) in Bezug auf Risiko- und Gefahrenvermeidung*). Das zweite Schlüsselwort hier ist Internet. Natürlich kann man sich auch hier technisch nähern (*siehe [Wikipedia](https://de.wikipedia.org/wiki/Internet)*) das möchten wir allerdings nicht tun. Auch das Internet soll in diesem Kontext eher "gefühlt" als "verstanden" werden. Dazu später mehr.
 
 Es soll also im Wesentlichen darum gehen Sie in die Lage zu versetzen die für Sie persönlich relevanten Risiken in Bezug auf Ihre Internetaktivitäten erkennen und bewerten zu können.
 
@@ -58,7 +58,7 @@ Leider ist das bei einem Webseiten-Besuch, hier am Beispiel [tchibo.de](https://
 
 gehen Ihrerseits wieder verschiedene Wege ... Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
 
-Das illustriert ein wenig wo ggf. Risiken im Internet entstehen können. 
+Das illustriert ein wenig wo ggf. Risiken im Internet entstehen können.
 
 ## Privat
 
