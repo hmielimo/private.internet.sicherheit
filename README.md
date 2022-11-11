@@ -87,9 +87,9 @@ Am Ende möchte ich Ihnen zu diesem Themenkomplex den Kommentar [Digitale Selbst
 ## weitere Informationen
 
 - [Bundesamt für Sicherheit in der Informationstechnik (*BSI*)](https://www.bsi.bund.de/DE/Das-BSI/Auftrag/auftrag_node.html)
- - Der [Verbraucherschutz-Newsletter "Sicher • Informiert"](https://www.bsi.bund.de/dok/6722626) richtet sich an alle, die über die wichtigsten Ereignisse rund um die Sicherheit Ihres Computers und im Internet auf dem Laufenden gehalten werden wollen. Der Newsletter erscheint alle vierzehn Tage. Im Falle einer besonders akuten Gefahrensituation informieren wir Sie unmittelbar mit einer Extraausgabe des Newsletters. Alle Informationen werden leicht verständlich erklärt.
+  - Der [Verbraucherschutz-Newsletter "Sicher • Informiert"](https://www.bsi.bund.de/dok/6722626) richtet sich an alle, die über die wichtigsten Ereignisse rund um die Sicherheit Ihres Computers und im Internet auf dem Laufenden gehalten werden wollen. Der Newsletter erscheint alle vierzehn Tage. Im Falle einer besonders akuten Gefahrensituation informieren wir Sie unmittelbar mit einer Extraausgabe des Newsletters. Alle Informationen werden leicht verständlich erklärt.
 - [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg*)
- - [Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
+  - [Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
 
 ### Vertiefung einiger Risikobereiche
 
