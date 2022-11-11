@@ -42,10 +42,10 @@ Wie ja bereits angesprochen geht es hier nicht um eine technische Erklärung. Vi
 Lassen Sie mich das etwas ausführlicher illustrieren.
 
 Die reale Welt in der wir uns natürlicherweise bewegen kann man in folgende "Räume" oder "Bereiche" gliedern:
-- Global (*Welt, Internet, Internet der Dinge, eingeschränkt auch Menschenrechte*)
+- Global (*Welt, Internet, [Internet der Dinge](https://de.wikipedia.org/wiki/Internet_der_Dinge), eingeschränkt auch Menschenrechte*)
 -	National (*z.B. Deutschland, [Deutsche Sprache](https://de.wikipedia.org/wiki/Deutsche_Sprache), deutsches Steuerrecht, Demokratie*)
 -	Lokal (*z.B. Husum, [Platt](https://de.wikipedia.org/wiki/Platt)*)
--	Privat (*Haus bzw. Wohnung, Internet der Dinge (z.B. Saugroboter)*)
+-	Privat (*Haus bzw. Wohnung, [Internet der Dinge](https://de.wikipedia.org/wiki/Internet_der_Dinge) (z.B. Saugroboter)*)
 
 In diesen "Räumen" bewegen Sie sich i.d.R. bewusst bzw. Sie erkennen z.B. bei einem Skiausflug mit dem Auto von [Husum nach Chamonix](https://www.openstreetmap.org/directions?engine=fossgis_osrm_car&route=54.485%2C9.054%3B45.925%2C6.873) sehr konkret sich verändernde Sprachen oder ähnliches wie z.B. Verkehrsregeln.
 
