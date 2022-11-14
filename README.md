@@ -5,11 +5,11 @@
 
 - [Einleitung](#einleitung)
 - [Begriffsklärung und Gedankengerüst](#begriffsklaerung-und-gedankengeruest)
- - [Sicherheit](#sicherheit)
- - [Das Internet](#das-internet)
- - [Privat](#privat)
- - [Kommunikation mit dem Internet](#kommunikation-mit-dem-internet)
- - [Anbindung an das Internet](#anbindung-an-das-internet)
+  - [Sicherheit](#sicherheit)
+  - [Das Internet](#das-internet)
+  - [Privat](#privat)
+  - [Kommunikation mit dem Internet](#kommunikation-mit-dem-internet)
+  - [Anbindung an das Internet](#anbindung-an-das-internet)
 - [weitere Informationen](#weitere-informationen)
 
 <!-- /TOC -->
