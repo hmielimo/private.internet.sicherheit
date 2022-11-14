@@ -128,7 +128,7 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 
 - Meine zentrale Firewall (*[FRITZ!Box 4040 und Netzwerkaufbau – OpenWrt](https://www.kuketz-blog.de/fritzbox-4040-und-netzwerkaufbau-openwrt-teil1/), [DNS based ad/abuse domain blocking](https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md)*)
 - Sichere Verwaltung meiner Passwörter (*[Passwort-Manager](https://www.kuketz-blog.de/empfehlungsecke/#passwort-manager), [Diceware](https://de.wikipedia.org/wiki/Diceware)*)
-- Für den Fall der Fälle (*Datensicherung und Wiederherstellung mit  [Cryptomator](https://cryptomator.org/de/), [rclone](https://rclone.org/) und [Nextcloud](https://nextcloud.com/de/) auch bekannt als [Friesencloud](https://www.stadtwerke-husum.de/aktuelles/friesencloud-wissen-wo-die-daten-liegen/) für Energiekunden der Stadtwerke Husum*)
+- Für den Fall der Fälle (*Datensicherung und Wiederherstellung mit  [Cryptomator](https://cryptomator.org/de/), [rclone](https://rclone.org/) und [Nextcloud](https://nextcloud.com/) auch bekannt als [Friesencloud](https://www.stadtwerke-husum.de/aktuelles/friesencloud-wissen-wo-die-daten-liegen/) für Energiekunden der Stadtwerke Husum*)
 
 
 ### Videos (*Komplexität ganz einfach erklärt*)
