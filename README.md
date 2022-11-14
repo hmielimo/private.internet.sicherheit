@@ -98,7 +98,7 @@ Dieses Beispiel stellt sich mit dem Internet ganz anders und doch sehr ähnlich 
 
 Das Prinzip ist also das Gleiche, die Konsequenzen jedoch erheblich. Auf diese Art und Weise lassen sich beliebige Datengrößen austauschen. Alles, wirklich alles, wird bei der Kommunikation mit dem Internet in kleine Datenpakete (*Briefumschläge mit Absender, Adresse und ausreichend Porto*) verpackt und versendet. Dabei sind für Sie zwei Werte ausschlaggebend:
 
-- [Datendurchsatz](https://de.wikipedia.org/wiki/Datendurchsatz
+- [Datendurchsatz](https://de.wikipedia.org/wiki/Datendurchsatz)
 - Reaktionszeit (*Verzögerungszeit oder [Antwortzeit](https://de.wikipedia.org/wiki/Antwortzeit)*)
 
 Der Datendurchsatz wird z.B. in mega Bit pro Sekunde (*Mbit/s*) angegeben, also Datenmenge je Zeiteinheit. Oft wird auch noch je Übertragungsrichtung z.B. Download (*hole Daten aus dem Internet*) und Upload (*lade Daten in das Internet*) unterschieden.
