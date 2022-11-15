@@ -103,7 +103,16 @@ Das Prinzip ist also das Gleiche, die Konsequenzen jedoch erheblich. Auf diese A
 
 Der Datendurchsatz wird z.B. in mega Bit pro Sekunde (*Mbit/s*) angegeben, also Datenmenge je Zeiteinheit. Oft wird auch noch je Übertragungsrichtung z.B. Download (*hole Daten aus dem Internet*) und Upload (*lade Daten in das Internet*) unterschieden.
 
-Eine der Hauptursachen für die Reaktionszeit im Internet ist die Entfernung, insbesondere die Entfernung zwischen den Client-Geräten, die Anfragen stellen, und den Servern, die auf diese Anfragen reagieren. Wenn eine Website in einem Rechenzentrum in Farnakfurt am Main, Deutschland, gehostet wird, erhält sie Anfragen von Nutzern aus Husum, Deutschland (etwa 575 km entfernt) relativ schnell, wahrscheinlich innerhalb von 20 Millisekunden. Anfragen von Nutzern aus New York City, USA (ca. 6.200 km entfernt) brauchen dagegen länger, etwa 200 Millisekunden. Die Zeitangaben sind grobe Näherungswerte besierend auf der [Lichtgeschwindigkeit](https://de.wikipedia.org/wiki/Lichtgeschwindigkeit), also dem theoretischen Maximum - schneller geht es einfach nicht.
+Hier einige Beispiele für Datendurchsatz beim Fernsehen über das Internet (*[Streaming](https://de.wikipedia.org/wiki/Streaming_Media), [Videoauflösung](https://de.wikipedia.org/wiki/Videoaufl%C3%B6sung)*)
+
+| Videoqualität | Auflösung          | Datendurchsatz in Mbit/s (*Bit depth 32 bit*)  |
+| ------------- | ------------------ |----------------- |
+| UHD 8K        | 7680 x 4320 Pixel  | von 24 bis 121   |
+| UHD 4K        | 3840 x 2160 Pixel  | von 6 bis 15     |
+| HD1080        | 1920 × 1080 Pixel  | 2                |
+| HD720         | 1280 x 720 Pixel   | 1,7              |
+
+Eine der Hauptursachen für die Reaktionszeit im Internet ist die Entfernung, insbesondere die Entfernung zwischen den Client-Geräten, die Anfragen stellen, und den Servern, die auf diese Anfragen reagieren. Wenn eine Website in einem Rechenzentrum in Farnakfurt am Main, Deutschland, gehostet wird, erhält sie Anfragen von Nutzern aus Husum, Deutschland (etwa 575 km entfernt) relativ schnell, wahrscheinlich innerhalb von 2 Millisekunden. Anfragen von Nutzern aus New York City, USA (ca. 6.200 km entfernt) brauchen dagegen länger, etwa 21 Millisekunden. Die Zeitangaben sind grobe Näherungswerte besierend auf der [Lichtgeschwindigkeit](https://de.wikipedia.org/wiki/Lichtgeschwindigkeit), also dem theoretischen Maximum - schneller geht es einfach nicht.
 
 Das ist z.B. beim Telefonieren und bei der Videotelefonie ganz entscheidend. Verzögerungen möchten Sie im Gespräch nun wirklich nicht haben.
 
