@@ -103,7 +103,7 @@ Der Datendurchsatz wird z.B. in mega Bit pro Sekunde (*Mbit/s*) angegeben, also 
 
 Hier einige Beispiele für Datendurchsatz beim Fernsehen über das Internet (*[Streaming](https://de.wikipedia.org/wiki/Streaming_Media), [Videoauflösung](https://de.wikipedia.org/wiki/Videoaufl%C3%B6sung)*)
 
-| Videoqualität | Auflösung          | Datendurchsatz in Mbit/s (*Bit depth 32 bit*)  |
+| Videoqualität | Auflösung          | Datendurchsatz in Mbit/s (*[Farbtiefe](https://de.wikipedia.org/wiki/Farbtiefe_(Computergrafik)) 32 bit*)  |
 | ------------- | ------------------ |----------------- |
 | UHD 8K        | 7680 x 4320 Pixel  | von 24 bis 121   |
 | UHD 4K        | 3840 x 2160 Pixel  | von 6 bis 15     |
