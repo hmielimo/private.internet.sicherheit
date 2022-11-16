@@ -149,4 +149,4 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 - [Wie kommen die Daten in die Cloud?](https://www.youtube.com/watch?v=eJE_32_5SfE)
 - [Wie funktioniert eine Firewall?](https://www.youtube.com/watch?v=qDr39p6pxVM)
 - [Sicher Surfen im Netz](https://www.youtube.com/watch?v=NJomSq7q9Ok)
-- [HUB vs. SWITCH vs. ROUTER (*einfach erklärt*)](https://www.youtube.com/watch?v=zFfattg5gd8)
+- [Hub vs. Switch vs. Router](https://www.youtube.com/watch?v=zFfattg5gd8)
