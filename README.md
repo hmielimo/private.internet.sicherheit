@@ -86,8 +86,6 @@ Basierend auf Ihrer persönlichen Risikobereitschaft können Sie jetzt z.B. best
 
 Machen Sie sich einfach bewusst, **warum** Sie **was**, **wie** verändern möchten.
 
-Am Ende möchte ich Ihnen zu diesem Themenkomplex den Kommentar [Digitale Selbstbestimmung – Eine Einordnung](https://www.kuketz-blog.de/kommentar-digitale-selbstbestimmung-eine-einordnung/) von [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Neben seiner freiberuflichen Tätigkeit ist Mike zu 50 % bei der Dienststelle des [Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/) (LfDI BW) angestellt.*) empfehlen. Mike Kuketz hat auch eine Veröffentlichung über [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil2/) schauen Sie bei Interesse gerne mal rein.
-
 ### Kommunikation mit dem Internet
 
 Die Kommunikation mit dem Internet erfolgt Paketbasiert (*siehe dazu auch [Internet Protokoll](https://de.wikipedia.org/wiki/Internet_Protocol)*). Man tauscht also (kleine) Daten-Pakete mit dem Internet aus. Lassen Sie mich das an einem Beispiel kurz illustrieren.
@@ -132,6 +130,10 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
   - Der [Verbraucherschutz-Newsletter "Sicher • Informiert"](https://www.bsi.bund.de/dok/6722626) richtet sich an alle, die über die wichtigsten Ereignisse rund um die Sicherheit Ihres Computers und im Internet auf dem Laufenden gehalten werden wollen. Der Newsletter erscheint alle vierzehn Tage. Im Falle einer besonders akuten Gefahrensituation informieren wir Sie unmittelbar mit einer Extraausgabe des Newsletters. Alle Informationen werden leicht verständlich erklärt.
 - [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Neben seiner freiberuflichen Tätigkeit ist Mike zu 50 % bei der Dienststelle des [Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/) (LfDI BW) angestellt.*)
   - [Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
+  - [Digitale Selbstbestimmung – Eine Einordnung](https://www.kuketz-blog.de/kommentar-digitale-selbstbestimmung-eine-einordnung/)
+  - [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil1/)
+- [Professor Harald Lesch](https://de.wikipedia.org/wiki/Harald_Lesch) (*Deutscher Astrophysiker, Naturphilosoph, Wissenschaftsjournalist, Fernsehmoderator und Hörbuchsprecher. Er ist Professor für Physik an der Ludwig-Maximilians-Universität München und Lehrbeauftragter für Naturphilosophie an der Hochschule für Philosophie München.*)
+  - [Übrigens ... zum Umgang mit Daten](https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fwissen%2Fleschs-kosmos%2Fuebrigens-zum-umgang-mit-daten-102)
 
 ### Vertiefung einiger Risikobereiche
 
