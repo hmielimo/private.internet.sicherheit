@@ -129,6 +129,7 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 - [Bundesamt für Sicherheit in der Informationstechnik (*BSI*)](https://www.bsi.bund.de/DE/Das-BSI/Auftrag/auftrag_node.html)
   - Der [Verbraucherschutz-Newsletter "Sicher • Informiert"](https://www.bsi.bund.de/dok/6722626) richtet sich an alle, die über die wichtigsten Ereignisse rund um die Sicherheit Ihres Computers und im Internet auf dem Laufenden gehalten werden wollen. Der Newsletter erscheint alle vierzehn Tage. Im Falle einer besonders akuten Gefahrensituation informieren wir Sie unmittelbar mit einer Extraausgabe des Newsletters. Alle Informationen werden leicht verständlich erklärt.
 - [Mike Kuketz](https://www.kuketz-blog.de/ueber-mich/) (*Neben seiner freiberuflichen Tätigkeit ist Mike zu 50 % bei der Dienststelle des [Landesbeauftragten für den Datenschutz und die Informationsfreiheit Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/) (LfDI BW) angestellt.*)
+  - [5 praxisnahe Tipps für mehr IT-Sicherheit: Echt jetzt!](https://www.kuketz-blog.de/5-praxisnahe-tipps-fuer-mehr-it-sicherheit-echt-jetzt/)
   - [Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
   - [Digitale Selbstbestimmung – Eine Einordnung](https://www.kuketz-blog.de/kommentar-digitale-selbstbestimmung-eine-einordnung/)
   - [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil1/)
