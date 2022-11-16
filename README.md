@@ -24,7 +24,7 @@ In weiteren vertiefenden Kapiteln werden wir auch konkrete Massnahmen vorstellen
 
 Es geht also ausschließlich um Sie.
 
-## Begriffsklaerung und Gedankengerüst
+## Begriffsklärung und Gedankengerüst
 
 ### Sicherheit
 
