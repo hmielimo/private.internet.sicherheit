@@ -4,7 +4,7 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
 - [Einleitung](#einleitung)
-- [Begriffsklärung und Gedankengerüst](#begriffsklaerung-und-gedankengeruest)
+- [Begriffsklärung und Gedankengerüst](#begriffsklärung-und-gedankengerüst)
   - [Sicherheit](#sicherheit)
   - [Das Internet](#das-internet)
   - [Privat](#privat)
@@ -24,7 +24,7 @@ In weiteren vertiefenden Kapiteln werden wir auch konkrete Massnahmen vorstellen
 
 Es geht also ausschließlich um Sie.
 
-## Begriffsklaerung und Gedankengeruest
+## Begriffsklaerung und Gedankengerüst
 
 ### Sicherheit
 
