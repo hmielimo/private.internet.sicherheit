@@ -135,6 +135,7 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
   - [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil1/)
 - [Professor Harald Lesch](https://de.wikipedia.org/wiki/Harald_Lesch) (*Deutscher Astrophysiker, Naturphilosoph, Wissenschaftsjournalist, Fernsehmoderator und Hörbuchsprecher. Er ist Professor für Physik an der Ludwig-Maximilians-Universität München und Lehrbeauftragter für Naturphilosophie an der Hochschule für Philosophie München.*)
   - [Übrigens ... zum Umgang mit Daten](https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fwissen%2Fleschs-kosmos%2Fuebrigens-zum-umgang-mit-daten-102)
+- [Überprüfen Sie, ob Ihre E-Mail-Adresse oder Ihr Telefon von einer Datenpanne betroffen ist](https://haveibeenpwned.com/)
 
 ### Vertiefung einiger Risikobereiche
 
