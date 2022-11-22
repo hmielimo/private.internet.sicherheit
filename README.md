@@ -120,7 +120,7 @@ Internetanbindung kann kabelgebunden (*z.B. Kupferleitung, Lichtwellenleitung*) 
 
 Machen Sie sich bitte bewusst, dass das WLAN außerhalb Ihres zu Hauses von Dritten (*z.B. Kaufhaus, Hotel, Krankenhaus*) betrieben und zur Verfügung gestellt wird. In diesem Zusammenhang ist es ggf. hilfreich das Projekt [WiFi4EU](https://wifi4eu.ec.europa.eu/#/home) zu erwähnen.
 
-Diese Leistung (*Anbindung an das Internet*) lassen sich die Anbieter bezahlen (*siehe Porto in [Kommunikation mit dem Internet](#kommunikation-mit-dem-internet)*). Oft mit einer sogenannten Internet [Flatrate](https://de.wikipedia.org/wiki/Flatrate). Dabei ist es nicht von Bedeutung wie oft bzw. wie viel sie das Internet nutzen oder anders gesagt, Paket mit dem Internet austauschen. Sondern es wird der Datendurchsatz zugesichert (*oft auch mit Zusätzen wie z.B. bis zu ...*)
+Diese Leistung (*Anbindung an das Internet*) lassen sich die Anbieter bezahlen (*siehe Porto in [Kommunikation mit dem Internet](#kommunikation-mit-dem-internet)*). Oft mit einer sogenannten Internet [Flatrate](https://de.wikipedia.org/wiki/Flatrate). Dabei ist es nicht von Bedeutung wie oft bzw. wie viel sie das Internet nutzen oder anders gesagt, Pakete mit dem Internet austauschen. Sondern es wird der Datendurchsatz zugesichert (*oft auch mit Zusätzen wie z.B. bis zu ...*)
 
 Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stichwort Passwort oder Haustürschlüssel*) denn Sie haben den Vertrag mit dem Anbieter und bezahlen diese Leistung. Wenn Dritte "unter Ihrem Namen" von dieser Internetanbindung Gebrauch machen, sind Sie dafür i.d.R. haftbar.
 
