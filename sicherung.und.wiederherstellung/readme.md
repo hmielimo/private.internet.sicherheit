@@ -93,4 +93,4 @@ SET /P _inputname= Druecke eine beliebige Taste um das Fenster zu schliessen
 
 ### Das Testen
 
-Es ist wichtig sowohl das Sichern als auch das Wiederherstellen regelmäßig zu überprüfen. Einmal im Jahr sollte reichen. Es soll im Fall der Fälle ja auch wirklich funktionieren.
+Es ist wichtig sowohl das Sichern als auch das Wiederherstellen regelmäßig zu überprüfen. Einmal im Jahr sollte reichen. Es soll im Fall der Fälle ja auch wirklich funktionieren. 
