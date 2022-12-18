@@ -15,7 +15,7 @@
 
 ## Einleitung
 
-Sie nutzen Computer und/oder Smartphones? Haben Sie sich je gefragt, was passiert wenn eines Ihrer Geräte kaputt geht? Fall Sie diese Frage ganz entspannt läßt haben Sie ein gutes und zuverlässige Sicherungs-Konzept.
+Sie nutzen Computer und/oder Smartphones? Haben Sie sich je gefragt, was passiert wenn eines Ihrer Geräte kaputt geht? Fall Sie diese Frage ganz entspannt läßt haben Sie ein gutes und zuverlässiges Sicherungs-Konzept.
 
 Sie haben sich folgende Fragen beantwortet:
 - Welche Daten benötigen Sie?
