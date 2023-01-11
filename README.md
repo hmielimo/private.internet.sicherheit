@@ -1,5 +1,5 @@
-# Private Internet Sicherheit
-
+# <img alt="Private Internet Sicherheit" src="images/Private.Internet.Sicherheit.png" title="Private Internet Sicherheit" width="10%" style="float:left"> Private Internet Sicherheit
+<br><br>
 ## Inhaltsverzeichnis
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
