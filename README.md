@@ -82,6 +82,8 @@ Wenn Sie den Hausarzt Ihres Vertrauens aufsuchen, erwarten Sie, dass dieser mit 
 
 Die im Kapitel [Sicherheit](#sicherheit) angesprochenen technischen Begriffe (*Update, Passwörter, Zwei-Faktor-Authentisierung, Virenschutzprogramm, Firewall*) sind jetzt hoffentlich leichter für Sie fassbar.
 
+Natürlich sind diese Vergleiche nicht perfekt, gleichwohl helfen sie einem das Thema besser zu verstehen. Eine wesentliche Komponente, der Router (z.B. [Fritz!Box](https://avm.de/produkte/fritzbox/)), fehlt hier allerdings. Der Router entspricht in etwa Ihrem [Sicherungskasten](https://www.baulinks.de/webplugin/2019/i/0058-tuev.jpg). Beide verteilen etwas (Daten bzw. Stom) im Haus.
+
 Basierend auf Ihrer persönlichen Risikobereitschaft können Sie jetzt z.B. bestimmen ob Sie gerne einen stabileren Zaun (*Firewall*) anschaffen möchten damit Ihre Kinder sicherer in Ihrem Garten spielen können.
 
 Machen Sie sich einfach bewusst, **warum** Sie **was**, **wie** verändern möchten.
