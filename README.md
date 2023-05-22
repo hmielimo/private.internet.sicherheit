@@ -140,11 +140,11 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 - [Überprüfen Sie, ob Ihre E-Mail-Adresse oder Ihr Telefon von einer Datenpanne betroffen ist](https://haveibeenpwned.com/)
 - [„Oscars für Datenkraken“ werden jedes Jahr an die größten Datensünder vergeben.](https://bigbrotherawards.de/) z.B. [2021 im Bereich Gesundheit an Doctolib aus Berlin](https://bigbrotherawards.de/2021/gesundheit-doctolib)
 
-### Vertiefung einiger Risikobereiche
+### Konkrete Vertiefung einiger Risikobereiche
 
-- Meine zentrale Firewall (*[FRITZ!Box 4040 und Netzwerkaufbau – OpenWrt](https://www.kuketz-blog.de/fritzbox-4040-und-netzwerkaufbau-openwrt-teil1/), [DNS based ad/abuse domain blocking](https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md)*)
-- Sichere Verwaltung meiner Passwörter (*[Passwort-Manager](https://www.kuketz-blog.de/empfehlungsecke/#passwort-manager), [Diceware](https://de.wikipedia.org/wiki/Diceware)*)
-- Für den Fall der Fälle (*Datensicherung und Wiederherstellung mit  [Cryptomator](https://cryptomator.org/de/), [rclone](https://rclone.org/) und [Nextcloud](https://nextcloud.com/) auch bekannt als [Friesencloud](https://www.stadtwerke-husum.de/aktuelles/friesencloud-wissen-wo-die-daten-liegen/) für Energiekunden der Stadtwerke Husum*)
+- Die Bösen bleiben draußen (*[Meine zentrale Firewall](https://github.com/hmielimo/private.internet.sicherheit/tree/main/meine.zentrale.firewall)*)
+- Sicher ist sicher (*[Sichere Verwaltung meiner Passwörter](https://github.com/hmielimo/private.internet.sicherheit/tree/main/sichere.verwaltung.meiner.passwoerter)*)
+- Für den Fall der Fälle (*[Datensicherung und Wiederherstellung](https://github.com/hmielimo/private.internet.sicherheit/tree/main/sicherung.und.wiederherstellung)*)
 
 
 ### Videos (*Komplexität einfach erklärt*)
