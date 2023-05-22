@@ -1,8 +1,9 @@
-# Für den Fall der Fälle
+# Für den Fall der Fälle (*Datensicherung und Wiederherstellung*)
 
 ## Inhaltsverzeichnis
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:0 orderedList:0 -->
 
+- [**Home** (*zurück zu Private Internet Sicherheit*)](https://github.com/hmielimo/private.internet.sicherheit)
 - [Einleitung](#einleitung)
 - [Welche Daten benötigen Sie?](#welche-daten-benoetigen-sie)
 - [Wieviel Sicherheit benötigen Sie?](#wieviel-sicherheit-benoetigen-sie)
