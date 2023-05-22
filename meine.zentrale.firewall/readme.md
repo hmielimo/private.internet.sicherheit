@@ -17,3 +17,10 @@ Hier stelle ich Ihnen an einem konkreten Beispiel (*FritzBox, OpenWrt*) vor, wie
 - Firewall zur Kontrolle des Datenverkehrs
 - Drei (*LAN1, LAN2, LAN3*) getrennte Netzwerke zur besseren Trennung (*z.B. PV Anlage, internetfähige Geräte (z.B. Fernseher, Mähroboter, Saug- und Wisch-Roboter)*)
 - Sicheres (*u.a. ohne Client-to-Client Kommunikation*) WiFi mit Fast Roaming
+
+Das könnte dann in etwa so aussehen:
+<img alt="Private Internet Sicherheit" src="../images/privates.sicheres.netzwerk.png" title="Private Internet Sicherheit" width="100%">
+
+Komponenten:
+- ISP Router <img alt="ISP Router" src="../images/isp.router.png" title="ISP Router" width="60%">
+- Privater bzw. eigener Router <img alt="Privater Router" src="../images/privater.router.png" title="Privater Router" width="60%">
