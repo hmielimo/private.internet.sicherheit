@@ -138,7 +138,8 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 - [Professor Harald Lesch](https://de.wikipedia.org/wiki/Harald_Lesch) (*Deutscher Astrophysiker, Naturphilosoph, Wissenschaftsjournalist, Fernsehmoderator und Hörbuchsprecher. Er ist Professor für Physik an der Ludwig-Maximilians-Universität München und Lehrbeauftragter für Naturphilosophie an der Hochschule für Philosophie München.*)
   - [Übrigens ... zum Umgang mit Daten](https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fwissen%2Fleschs-kosmos%2Fuebrigens-zum-umgang-mit-daten-102)
 - [Überprüfen Sie, ob Ihre E-Mail-Adresse oder Ihr Telefon von einer Datenpanne betroffen ist](https://haveibeenpwned.com/)
-- [„Oscars für Datenkraken“ werden jedes Jahr an die größten Datensünder vergeben.](https://bigbrotherawards.de/) z.B. [2021 im Bereich Gesundheit an Doctolib aus Berlin](https://bigbrotherawards.de/2021/gesundheit-doctolib)
+- [„Oscars für Datenkraken“ werden jedes Jahr an die größten Datensünder vergeben.](https://bigbrotherawards.de/) z.B. [2021 im Bereich Gesundheit an Doctolib aus Berlin](https://bigbrotherawards.de/2021/gesundheit-doctolib) oder [2023 Deutsche Post DHL Group im Bereich Verbraucherschutz](https://bigbrotherawards.de/2023/deutsche-post-dhl)
+
 
 ### Konkrete Vertiefung einiger Risikobereiche
 
