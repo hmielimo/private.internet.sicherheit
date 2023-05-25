@@ -22,6 +22,11 @@ Der einzige Schlüssel der nicht gespeichert wird is das Passwort mit dem Sie da
 
 ## Einbindung und Integration
 
-Das Verzeichnis C:\Users\[Benutzername]\Nextcloud\Passwort wird mit dem [Nextcloud Desktop Client](https://docs.nextcloud.com/desktop/3.8/) automatisch mit Ihrer [Friesencloud](https://www.stadtwerke-husum.de/friesencloud/) syncronisiert. Eine automatiche Syncronisation steht ebenfalls für [Android](https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=en&gl=US) und [iOS](https://apps.apple.com/nl/app/nextcloud/id1125420102) zur Verfügung.
+<img alt="Einbindung und Integration in Friesencloud" src="../images/sync.png" title="Einbindung und Integration in Friesencloud" width="100%">
+
+### Einbindung
 
 Die mit KeePassXC verwalteten Passwörter stehen durch die [Browser Integration](https://keepassxc.org/docs/KeePassXC_GettingStarted#_setup_browser_integration) z.B. in Chrome, Firefox oder Microsoft Edge zur Verfügung. [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) ermöglicht das auch auf Android und [Strongbox](https://apps.apple.com/us/app/strongbox-password-safe/id897283731) auf iOS.
+
+### Integration in Friesencloud
+Das Verzeichnis C:\Users\[Benutzername]\Nextcloud\Passwort wird mit dem [Nextcloud Desktop Client](https://docs.nextcloud.com/desktop/3.8/) automatisch mit Ihrer [Friesencloud](https://www.stadtwerke-husum.de/friesencloud/) syncronisiert. Eine automatiche Syncronisation steht ebenfalls für [Android](https://play.google.com/store/apps/details?id=com.nextcloud.client&hl=en&gl=US) und [iOS](https://apps.apple.com/nl/app/nextcloud/id1125420102) zur Verfügung.
