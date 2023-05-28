@@ -6,6 +6,7 @@
 - [**Home** (*zurück zu Private Internet Sicherheit*)](https://github.com/hmielimo/private.internet.sicherheit)
 - [Einleitung](#einleitung)
 - [Welche Daten benötigen Sie?](#welche-daten-benoetigen-sie)
+- [Wie aktuell soll die Sicherung sein?](#wie-aktuell-soll-die-sicherung-sein)
 - [Wieviel Sicherheit benötigen Sie?](#wieviel-sicherheit-benoetigen-sie)
 - [Die Umsetzung](#die-umsetzung)
   - [Die Sicherung](#die-sicherung)
@@ -29,6 +30,17 @@ Damit ist bereits alles erledigt. Wirklich - ganz einfach. Ja, wirklich. Wir zei
 Bevor wir jetzt ganz tief in bestimmte Datenbereiche eintauchen, machen wir es ganz einfach. Teilen Die Ihren Computer einfach in zwei Bereiche auf. Alles was der Computer benötigt (hier am Beispiel Microsoft Windows) kommt auf Laufwerk C: und alles was Sie benötigen kommt auf Laufwerk D:
 
 Ob jetzt jedes Laufwerk eine eigene Festplatte oder SSD hat spielt dabei keine Rolle. Wichtig ist nur, dass Sie nachdem Ihr Computer kaputt gegangen ist und Sie eine neuen gekauft haben, leicht alle Ihre Daten auf Laufwerk D: wiederherstellen können.
+
+## Wie aktuell soll die Sicherung sein
+
+Sie arebeiten mit Ihren Daten und verändern diese laufend. Hier geht es darum ob die sehr zeitnah (*z.B. täglich*) oder etwas seltener (*z.B. wöchentlich*) sichern möchten.
+Ein guter Stanadard ist hier folgender:
+
+- tägliche Sicherung: (*inkrementelle*) lokale Kopie (*z.B. externe Festplatte*)
+- quartalsweise Sicherung: vollständige externe Kopie (*z.B. Friesencloud*)
+
+<img alt="Sicherung" src="../images/sicherung.png" title="Sicherung" width="100%">
+
 
 ## Wieviel Sicherheit benoetigen Sie
 
