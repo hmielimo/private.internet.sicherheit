@@ -48,7 +48,7 @@ Lassen Sie uns dieses Thema in zwei Bereiche aufgliedern:
 - Verschlüsselung Ja oder Nein?
 - Mehrstufigkeit Ja oder Nein?
 
-Zuerst zur Verschlüsselung. Ihre Daten sind ggf. sensibel oder Sie möchten nicht, dass dritte diese Daten bekommen bzw. sehen. Dann ist Verschlüsselung ein gutes Instrument um das zu erreichen. Denken Sie daran, bevor Sie sich entscheiden, dass ggf. Ihr Rechner verloren gehen oder gestohlen werden kann. Sollten Sie sich für eine Verschlüsselung entscheiden, ich nutze privat z.B. die [freie Software](https://de.wikipedia.org/wiki/Freie_Software) [Cryptomator](https://cryptomator.org/de/) .
+Zuerst zur Verschlüsselung. Ihre Daten sind ggf. sensibel oder Sie möchten nicht, dass dritte diese Daten bekommen bzw. sehen. Dann ist Verschlüsselung ein gutes Instrument um das zu erreichen. Denken Sie daran, bevor Sie sich entscheiden, dass ggf. Ihr Rechner verloren gehen oder gestohlen werden kann. Sollten Sie sich für eine Verschlüsselung entscheiden, ich nutze privat z.B. die [freie Software](https://de.wikipedia.org/wiki/Freie_Software) [Cryptomator](https://cryptomator.org/de/).
 
 Jetzt zur Mehrstufigkeit. Damit ist gemeint, dass sie mehrere Sicherungskopien vorhalten. Ähnlich wie Ersatzschlüssel. Wenn ein Schlüssel verloren gehen sollte, haben Sie den Ersatzschlüssel, wenn der Ersatzschlüssel, aus welchen Grund auch immer, nicht verfügbar sein sollte, freut man sich über den zweiten Ersatzschlüssel. Genauso ist es bei den Sicherungskopien. Wenn sie diese brauchen muß sie verfügbar sein. Es ist also nur eine Frage ihrer ganz persönlichen Risikobereitschaft ob Sie eine oder mehere Sicherungskopien anfertigen möchten. Da heutzutage Speicherplatz sehr günstig ist steht einer Mehrstufigkeit eigentlich nichts im Wege.
 
