@@ -21,6 +21,7 @@ Sie nutzen Computer und/oder Smartphones? Haben Sie sich je gefragt, was passier
 
 Sie haben sich folgende Fragen beantwortet:
 - Welche Daten benötigen Sie?
+- Wie aktuell soll die Sicherung sein?
 - Wieviel Sicherheit benötigen Sie?
 
 Damit ist bereits alles erledigt. Wirklich - ganz einfach. Ja, wirklich. Wir zeigen hier auf wie das gehen kann.
