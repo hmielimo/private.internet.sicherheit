@@ -34,8 +34,8 @@ Ob jetzt jedes Laufwerk eine eigene Festplatte oder SSD hat spielt dabei keine R
 
 ## Wie aktuell soll die Sicherung sein
 
-Sie arebeiten mit Ihren Daten und verändern diese laufend. Hier geht es darum ob die sehr zeitnah (*z.B. täglich*) oder etwas seltener (*z.B. wöchentlich*) sichern möchten.
-Ein guter Stanadard ist hier folgender:
+Sie arbeiten mit Ihren Daten und verändern diese laufend. Hier geht es darum ob die sehr zeitnah (*z.B. täglich*) oder etwas seltener (*z.B. wöchentlich*) sichern möchten.
+Ein möglicher Standard ist z.B.:
 
 - tägliche Sicherung: (*inkrementelle*) lokale Kopie (*z.B. externe Festplatte*)
 - quartalsweise Sicherung: vollständige externe Kopie (*z.B. Friesencloud*)
