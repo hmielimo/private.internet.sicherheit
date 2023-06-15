@@ -5,7 +5,12 @@
 
 - [**Home** (*zurück zu Private Internet Sicherheit*)](https://github.com/hmielimo/private.internet.sicherheit)
 - [Einleitung](#einleitung)
-
+- [Initialer openWRT Aufbau mit realer Hardware](#initialer-aufbau-mit-realer-hardware)
+  - [Step 1 Vorbereitung](#step-1-vorbereitung)
+  - [Step 2 flash firmware and initial config](#step-2-flash-firmware-and-initial-config)
+  - [Step 3 create scripts](#step-3-create-scripts)
+  - [Step 4 run scripts](#step-4-run-scripts)
+  - [Step 5 Dumb Access Point and Fast Roaming](#step-5-dumb-access-point-and-fast-roaming)
 
 <!-- /TOC -->
 
@@ -23,10 +28,14 @@ Hier stelle ich Ihnen an einem konkreten Beispiel (*FritzBox, OpenWrt*) vor, wie
   - Anfragen zu DNS-Servern werden im Normalfall unverschlüsselt versendet. Das bedeutet: Selbst wenn ihr einen unzensierten und freien DNS-Server gewählt habt, besteht die Möglichkeit, dass jemand eure DNS-Anfragen mitliest und auswertet – DNS ist damit grundsätzlich anfällig für [Man-in-the-Middle-Angriffe](https://de.wikipedia.org/wiki/Man-in-the-Middle-Angriff). Wir sichern die Umgebung durch [DNS over TLS (DoT)](https://de.wikipedia.org/wiki/DNS_over_TLS).
 - Firewall zur Kontrolle des Datenverkehrs
 - Drei (*LAN1, LAN2, LAN3*) getrennte Netzwerke zur besseren Trennung (*z.B. PV Anlage, internetfähige Geräte (z.B. Fernseher, Mähroboter, Saug- und Wisch-Roboter)*)
-- Sicheres (*u.a. ohne Client-to-Client Kommunikation*) WiFi mit Fast Roaming
-Das könnte dann in etwa so aussehen:
+- Sicheres (*u.a. mit Isolation der einzelnen Endgeräte*) WiFi mit [Fast Roaming](https://de.wikipedia.org/wiki/IEEE_802.11r#Fast_Basic_Service_Set_%28BSS%29_Transition)
+
+Das sieht im Ergebis so aus:
 <img alt="Private Internet Sicherheit" src="../images/privates.sicheres.netzwerk.png" title="Private Internet Sicherheit" width="100%">
 
 Komponenten:
 - ISP Router <img alt="ISP Router" src="../images/isp.router.png" title="ISP Router" width="60%">
 - Privater bzw. eigener Router <img alt="Privater Router" src="../images/privater.router.png" title="Privater Router" width="60%">
+
+
+
