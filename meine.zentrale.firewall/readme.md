@@ -5,12 +5,6 @@
 
 - [**Home** (*zurück zu Private Internet Sicherheit*)](https://github.com/hmielimo/private.internet.sicherheit)
 - [Einleitung](#einleitung)
-- [Initialer openWRT Aufbau mit realer Hardware](#initialer-aufbau-mit-realer-hardware)
-  - [Step 1 Vorbereitung](#step-1-vorbereitung)
-  - [Step 2 flash firmware and initial config](#step-2-flash-firmware-and-initial-config)
-  - [Step 3 create scripts](#step-3-create-scripts)
-  - [Step 4 run scripts](#step-4-run-scripts)
-  - [Step 5 Dumb Access Point and Fast Roaming](#step-5-dumb-access-point-and-fast-roaming)
 
 <!-- /TOC -->
 
