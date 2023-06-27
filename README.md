@@ -118,7 +118,7 @@ Das ist z.B. beim Telefonieren und bei der Videotelefonie ganz entscheidend. Ver
 
 ### Anbindung an das Internet
 
-Internetanbindung kann kabelgebunden (*z.B. Kupferleitung, Lichtwellenleitung*) oder Kabellos (*z.B. [WLAN](https://de.wikipedia.org/wiki/Wireless_Local_Area_Network), [LTE, LTE+ oder 5G](https://de.wikipedia.org/wiki/Long_Term_Evolution)*) erfolgen. Auch hier die Analogie zu unserem Hausbeispiel. Kabelgebungen (*Wasseranschluß*) und Kabellos (*Satelittenschüssel, KW, MW, UKW Radioempfang*). Oft nutzt man zu Hause einen kabelgebundenen Anschluß und sein privates WLAN. Unterwegs wird oft LTE verwendet.
+Internetanbindung kann kabelgebunden (*z.B. Kupferleitung, Lichtwellenleitung*) oder Kabellos (*z.B. [WLAN](https://de.wikipedia.org/wiki/Wireless_Local_Area_Network), [LTE, LTE+ oder 5G](https://de.wikipedia.org/wiki/Long_Term_Evolution)*) erfolgen. Auch hier die Analogie zu unserem Hausbeispiel. Kabelgebungen (*Wasseranschluss*) und Kabellos (*Satellitenschüssel, KW, MW, UKW Radioempfang*). Oft nutzt man zu Hause einen kabelgebundenen Anschluß und sein privates WLAN. Unterwegs wird oft LTE verwendet.
 
 Machen Sie sich bitte bewusst, dass das WLAN außerhalb Ihres zu Hauses von Dritten (*z.B. Kaufhaus, Hotel, Krankenhaus*) betrieben und zur Verfügung gestellt wird. In diesem Zusammenhang ist es ggf. hilfreich das Projekt [WiFi4EU](https://wifi4eu.ec.europa.eu/#/home) zu erwähnen.
 
