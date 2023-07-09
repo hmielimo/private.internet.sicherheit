@@ -22,7 +22,7 @@ Es soll also im Wesentlichen darum gehen Sie in die Lage zu versetzen die für S
 
 In weiteren vertiefenden Kapiteln werden wir auch konkrete Massnahmen vorstellen um ggf. erkannte Risiken abzumildern.
 
-Es geht also ausschließlich um Sie.
+Es geht also ausschließlich um Sie. Ich gebe dazu auch [Kurse an der VHS Husum](https://vhs-husum.de/ueber-uns/unsere-dozenten/dozent/Mielimonka-Heinz/3206).
 
 ## Begriffsklärung und Gedankengerüst
 
@@ -135,9 +135,11 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
   - [Datenhändler: Wir sind gläsern – Datensammler Teil1](https://www.kuketz-blog.de/datenhaendler-wir-sind-glaesern-datensammler-teil1/)
   - [Digitale Selbstbestimmung – Eine Einordnung](https://www.kuketz-blog.de/kommentar-digitale-selbstbestimmung-eine-einordnung/)
   - [Ungewöhnliche IT-Sicherheits- und Datenschutztipps](https://www.kuketz-blog.de/ungewoehnliche-it-sicherheits-und-datenschutztipps-teil1/)
+  - [Kurztipps zum Thema Sicherheit und Datenschutz](https://social.tchncs.de/tags/secprivacy2023)
 - [Professor Harald Lesch](https://de.wikipedia.org/wiki/Harald_Lesch) (*Deutscher Astrophysiker, Naturphilosoph, Wissenschaftsjournalist, Fernsehmoderator und Hörbuchsprecher. Er ist Professor für Physik an der Ludwig-Maximilians-Universität München und Lehrbeauftragter für Naturphilosophie an der Hochschule für Philosophie München.*)
   - [Übrigens ... zum Umgang mit Daten](https://ngp.zdf.de/miniplayer/embed/?mediaID=%2Fzdf%2Fwissen%2Fleschs-kosmos%2Fuebrigens-zum-umgang-mit-daten-102)
 - [Überprüfen Sie, ob Ihre E-Mail-Adresse oder Ihr Telefon von einer Datenpanne betroffen ist](https://haveibeenpwned.com/)
+- [Datenschutz-Audit-Plattform für Android-Anwendungen](https://reports.exodus-privacy.eu.org/de/)
 - [„Oscars für Datenkraken“ werden jedes Jahr an die größten Datensünder vergeben.](https://bigbrotherawards.de/) z.B. [2021 im Bereich Gesundheit an Doctolib aus Berlin](https://bigbrotherawards.de/2021/gesundheit-doctolib) oder [2023 Deutsche Post DHL Group im Bereich Verbraucherschutz](https://bigbrotherawards.de/2023/deutsche-post-dhl)
 
 
