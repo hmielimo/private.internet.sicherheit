@@ -148,6 +148,8 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 - Die Bösen bleiben draußen (*[Meine zentrale Firewall](https://github.com/hmielimo/private.internet.sicherheit/tree/main/meine.zentrale.firewall)*)
 - Sicher ist sicher (*[Sichere Verwaltung meiner Passwörter](https://github.com/hmielimo/private.internet.sicherheit/tree/main/sichere.verwaltung.meiner.passwoerter)*)
 - Für den Fall der Fälle (*[Datensicherung und Wiederherstellung](https://github.com/hmielimo/private.internet.sicherheit/tree/main/sicherung.und.wiederherstellung)*)
+- [»Ich habe doch nichts zu verbergen!«](https://www.kuketz-blog.de/empfehlungsecke/#verbergen)
+- [Made to Measure bzw. Maßanfertigung](https://madetomeasure.online/de) (Made to Measure ist ein Experiment: Kann man eine Person allein anhand ihrer Online-Spuren nachbilden? Von jemandem, den man nicht kennt, einen Doppelgänger/ eine Doppelgängerin erschaffen? Das Leben einer Person bis ins Detail nachbauen, nachspielen und verfilmen, ihre Persönlichkeit kopieren?)
 
 
 ### Videos (*Komplexität einfach erklärt*)
