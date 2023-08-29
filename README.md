@@ -151,7 +151,8 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 - Für den Fall der Fälle (*[Datensicherung und Wiederherstellung](https://github.com/hmielimo/private.internet.sicherheit/tree/main/sicherung.und.wiederherstellung)*)
 - [»Ich habe doch nichts zu verbergen!«](https://www.kuketz-blog.de/empfehlungsecke/#verbergen)
 - [Made to Measure bzw. Maßanfertigung](https://madetomeasure.online/de) (Made to Measure ist ein Experiment: Kann man eine Person allein anhand ihrer Online-Spuren nachbilden? Von jemandem, den man nicht kennt, einen Doppelgänger/ eine Doppelgängerin erschaffen? Das Leben einer Person bis ins Detail nachbauen, nachspielen und verfilmen, ihre Persönlichkeit kopieren?)
-- [Sicherheit und Privatsphäre des Saugroboters // Verhindern Sie, dass Ihr Roboter Ihre Daten absaugt - englischer Vortrag auf dem  Chaos Communication Camp 2023](https://media.ccc.de/v/camp2023-57158-vacuum_robot_security_and_privacy#t=719)
+- [Sicherheit und Privatsphäre des Saugroboters // Verhindern Sie, dass Ihr Roboter Ihre Daten absaugt - englischer Vortrag auf dem  Chaos Communication Camp 2023](https://media.ccc.de/v/camp2023-57158-vacuum_robot_security_and_privacy#t=1)
+- [Hirne hacken](https://media.ccc.de/v/36c3-11175-hirne_hacken#t=1) von [Linus Neumann](https://de.wikipedia.org/wiki/Linus_Neumann)
 
 
 ### Videos (*Komplexität einfach erklärt*)
