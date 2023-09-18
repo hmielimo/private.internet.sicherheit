@@ -56,11 +56,11 @@ In diesen "Räumen" bewegen Sie sich i.d.R. bewusst bzw. Sie erkennen z.B. bei e
 
 Leider ist das bei einem Webseiten-Besuch, hier am Beispiel [tchibo.de (*dieser Link führt zur Webseite des Unternehmens*)](https://www.tchibo.de/), nicht ganz so transparent. So führte mich das Beispiel [tchibo.de (*dieser Link überprüft Datenschutzfunktionen)*](https://webbkoll.dataskydd.net/de/results?url=http%3A%2F%2Ftchibo.de) nach Frankfurt am Main und bog im Hintergrund 13 Mal für Anfragen bei Drittanbietern vom "Weg" ab. Diese Drittanbieter
 
-- [cdn.cookielaw.org](https://tools.keycdn.com/geo?host=cdn.cookielaw.org) (*?*)
-- [geolocation.onetrust.com ](https://tools.keycdn.com/geo?host=geolocation.onetrust.com) (*USA*)
-- [p.typekit.net](https://tools.keycdn.com/geo?host=p.typekit.net) (*Frankfurt am Main*)
-- [use.typekit.net](https://tools.keycdn.com/geo?host=use.typekit.net) (*Frankfurt am Main*)
-- [www.googletagmanager.com](https://tools.keycdn.com/geo?host=www.googletagmanager.com) (*USA*)
+- 7 mal nach [cdn.cookielaw.org](https://ipgeolocation.io/ip-location/cdn.cookielaw.org) (*San Francisco (USA)*)
+- 1 mal nach [geolocation.onetrust.com](https://ipgeolocation.io/ip-location/geolocation.onetrust.com) (*San Francisco (USA)*)
+- 1 mal nach [p.typekit.net](https://ipgeolocation.io/ip-location/p.typekit.net) (*Frankfurt am Main (Deutschland)*)
+- 2 mal nach [use.typekit.net](https://ipgeolocation.io/ip-location/use.typekit.net) (*Frankfurt am Main (Deutschland)*)
+- 2 mal [www.googletagmanager.com](https://ipgeolocation.io/ip-location/www.googletagmanager.com) (*Mountain View (USA)*)
 
 gehen Ihrerseits wieder verschiedene Wege ... Machen Sie sich einfach bewusst, dass das Internet all diese "Räume" zugleich umfasst und Sie i.d.R. nicht wissen wo Sie sich gerade "aufhalten".
 
