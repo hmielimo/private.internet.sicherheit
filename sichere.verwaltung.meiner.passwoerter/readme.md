@@ -12,17 +12,17 @@
 
 ## Einleitung
 
-Warum könnte dieses Thema für Dich relevant sein?
+Sie haben Ihre persönliche Motivation sich für das Thema zu interessieren. Ich könnte mir z.B. folgende Motivation vorstellen:
 
-| Motivation | Erklärung | Lösungskomponente(n)   |
+| Motivation | Erklärung | mögliche Lösungskomponente(n)   |
 | ---------- | --------- | ----- |
-| Du suchst nach einer von Dir selbst kontrollierten Umgebung für Deine Passwörter | Du bewahrst deinen Hausschlüssel ja auch zu Hause auf und nicht bei jemand anderem. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
-| Du suchst nach einer Möglichkeit Deine Passwörter auf unterschiedlichen Endgeräten (*mit und ohne Internetzugang*) verfügbar zu haben. | Wie kann ich meine "Hausschlüssel" sicher "kopieren" | [Nextcloud](https://nextcloud.com/de/files/) |
-| Du möchtest dir nur ein Passwort merken müssen. | Alles andere ist auch nicht wirklich realistisch. | [Diceware](https://de.wikipedia.org/wiki/Diceware), [KeePassXC](https://keepassxc.org/) |
-| Duch suchst nach einer relativ hohen Sicherheit. | Deinen Hausschlüssel teilst du auch nicht leichtfertig. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
+| Sie suchen nach einem eigenen Platz für Ihre Passwörter. | Ihren Hausschlüssel tragen Sie i.d.R. immer bei sich. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
+| Sie benötigen Ihre Passwörter auf unterschiedlichen Endgeräten (*z.B. Computer, Handy*). | Jeder in Ihrer Familie verfügt über einen eigenen Hausschlüssel. | [Nextcloud](https://nextcloud.com/de/files/) bzw. [Friesencloud](https://www.stadtwerke-husum.de/friesencloud/) |
+| Sie möchten sich nicht mehrere Passwörter merken müssen. | Lieber sich ein [sicheres Passwort](https://en-m-wikipedia-org.translate.goog/wiki/Password_strength?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp) merken und weitere sichere automatisch erzeugen/verwalten als sich mehrere unsichere Passwörter zu merken. | [Diceware](https://de.wikipedia.org/wiki/Diceware), [KeePassXC](https://keepassxc.org/) |
+| Die Sicherheit Ihrer Passwörter ist Ihnen wichtig. | Ihren Hausschlüssel vertrauen Sie nicht leichtfertig Dritten an. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
 
 
-Hier stelle ich Ihnen an einem konkreten Beispiel (*Passwort-Manager, Diceware, Friesencloud*) vor, wie Sie Ihre Passwörter sicher verwalten und auch auf allen Endgeräten (*z.B. Handy*) verfügbar machen können.
+Hier stelle ich Ihnen an einem konkreten Beispiel (*Passwort-Manager, Diceware, Friesencloud*) vor, wie Sie Ihre Passwörter sicher verwalten und auch auf verschiedenen Endgeräten (*z.B. Handy*) verfügbar machen können.
 
 ## Passwoerter und Schluessel
 
