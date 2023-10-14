@@ -26,7 +26,7 @@ Hier stelle ich Ihnen an einem konkreten Beispiel (*Passwort-Manager, Diceware, 
 
 ## Passwoerter und Schluessel
 
-Alle Passwörter und Schlüssel sind im Verzeichnis C:\Users\\[Benutzername]\Nextcloud\Passwort (*z.B. C:\Users\Max\Nextcloud\Passwort*)  hinterlegt. Dieses Verzeichnis ist mit [Cryptomator](https://cryptomator.org/de/) verschlüsselt. Das Passwort zur Entschlüsselung wird nach jedem Neustart abgefragt. Zusätzlich befindet sich in diesem Verzeichnis ein [KeePassXC](https://keepassxc.org/) Tresor (*Passwort.kdbx*). Das Passwort zur Entschlüsselung dieses Tresors wird ebenfalls nach jedem Neustart abgefragt. In diesem Tresor befinden sich neben allen Passwörtern und Keys auch sonsigen für Sie relevanten Geheimnisse.
+Alle Passwörter und Schlüssel sind im Verzeichnis C:\Users\\[Benutzername]\Nextcloud\Passwort (*z.B. C:\Users\Max\Nextcloud\Passwort*)  hinterlegt. Dieses Verzeichnis ist mit [Cryptomator](https://cryptomator.org/de/) verschlüsselt. Das Passwort zur Entschlüsselung wird nach jedem Neustart abgefragt. Zusätzlich befindet sich in diesem Verzeichnis ein [KeePassXC](https://keepassxc.org/) Tresor (*Passwort.kdbx*). Das Passwort zur Entschlüsselung dieses Tresors wird ebenfalls nach jedem Neustart abgefragt. In diesem Tresor befinden sich neben allen Passwörtern und Keys auch sonstigen für Sie relevanten Geheimnisse.
 
 Der einzige Schlüssel der nicht gespeichert wird is das Passwort mit dem Sie das Cryptomator Verzeichnis und den Tresor verschlüsseln. Dieses Passwort müssen Sie sich merken und es muss sicher sein. [**Diceware**](https://de.wikipedia.org/wiki/Diceware) hilft Ihnen dabei ein geeignetes Passwort zu finden.
 
