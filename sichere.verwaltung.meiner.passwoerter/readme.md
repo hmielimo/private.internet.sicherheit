@@ -16,7 +16,7 @@ Sie haben Ihre persönliche Motivation sich für das Thema zu interessieren. Ich
 
 | Motivation | Erklärung | mögliche Lösungskomponente(n)   |
 | ---------- | --------- | ----- |
-| Sie suchen nach einem eigenen Platz für Ihre Passwörter. | Ihren Hausschlüssel tragen Sie i.d.R. immer bei sich. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
+| Sie suchen nach einem geeigneten Platz für Ihre Passwörter. | Ihren Hausschlüssel tragen Sie i.d.R. immer bei sich. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
 | Sie benötigen Ihre Passwörter auf unterschiedlichen Endgeräten (*z.B. Computer, Handy*). | Jeder in Ihrer Familie verfügt über einen eigenen Hausschlüssel. | [Nextcloud](https://nextcloud.com/de/files/) bzw. [Friesencloud](https://www.stadtwerke-husum.de/friesencloud/) |
 | Sie möchten sich nicht mehrere Passwörter merken müssen. | Lieber sich ein [sicheres Passwort](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Checklisten/sichere_passwoerter_faktenblatt.pdf?__blob=publicationFile&v=4#download=1) merken und weitere sichere automatisch erzeugen/verwalten als sich mehrere unsichere Passwörter zu merken. | [Diceware](https://de.wikipedia.org/wiki/Diceware), [KeePassXC](https://keepassxc.org/) |
 | Die Sicherheit Ihrer Passwörter ist Ihnen wichtig. | Ihren Hausschlüssel vertrauen Sie nicht leichtfertig Dritten an. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
