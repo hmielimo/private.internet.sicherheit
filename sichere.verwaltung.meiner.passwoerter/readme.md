@@ -22,7 +22,7 @@ Sie haben Ihre persönliche Motivation sich für das Thema zu interessieren. Ich
 | Die Sicherheit Ihrer Passwörter ist Ihnen wichtig. | Ihren Hausschlüssel vertrauen Sie nicht leichtfertig Dritten an. | [Cryptomator](https://cryptomator.org/de/), [KeePassXC](https://keepassxc.org/) |
 
 
-Hier stelle ich Ihnen an einem konkreten Beispiel (*Passwort-Manager, Diceware, Friesencloud*) vor, wie Sie Ihre Passwörter sicher verwalten und auch auf verschiedenen Endgeräten (*z.B. Handy*) verfügbar machen können.
+Hier stelle ich Ihnen an einem konkreten Beispiel (*[Passwort-Manager](https://www.kuketz-blog.de/empfehlungsecke/#passwort-manager), Diceware, Friesencloud*) vor, wie Sie Ihre Passwörter sicher verwalten und auch auf verschiedenen Endgeräten (*z.B. Handy*) verfügbar machen können.
 
 ## Passwoerter und Schluessel
 
