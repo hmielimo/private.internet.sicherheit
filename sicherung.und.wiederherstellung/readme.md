@@ -37,6 +37,7 @@ Ob jetzt jedes Laufwerk eine eigene Festplatte oder SSD hat spielt dabei keine R
 Sie arbeiten mit Ihren Daten und verändern diese laufend. Hier geht es darum ob die sehr zeitnah (*z.B. täglich*) oder etwas seltener (*z.B. wöchentlich*) sichern möchten.
 Ein möglicher Standard ist z.B.:
 
+- syncrone sicherung: [Syncthing](https://www-syncthing-net.translate.goog/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp) ist ein Programm zur kontinuierlichen Dateisynchronisierung
 - tägliche Sicherung: (*inkrementelle*) lokale Kopie (*z.B. externe Festplatte*)
 - quartalsweise Sicherung: vollständige externe Kopie (*z.B. Friesencloud*)
 
