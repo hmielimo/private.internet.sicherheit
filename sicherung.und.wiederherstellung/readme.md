@@ -41,6 +41,7 @@ Ich habe mich hier für eine Abhängigkeit zu [rclone](https://rclone.org/) ents
 
 - ... [rclone](https://github.com/rclone/rclone) open source ist
 - ... [rclone](https://github.com/rclone/rclone) von 652 aktiven und namentlich bekannten Personen weiterentwickelt wird
+- ... [rclone](https://rclone.org/commands/) einen großen und für meine Zwecke mehr als ausreichenden Funktionsumfang hat
 - ... [rclone](https://github.com/rclone/rclone) seit 2015 zuverlässig weiterentwickelt wird
 - ... [rclone](https://rclone.org/overview/) 45 Speicherorte bzw. Speichertechnologien unterstützt
 - ... [rclone](https://github.com/rclone/rclone) seit 2015 zuverlässig weiterentwickelt wird
