@@ -26,6 +26,8 @@ Sie haben sich folgende Fragen beantwortet:
 
 Damit ist bereits alles erledigt. Wirklich - ganz einfach. Ja, wirklich. Wir zeigen hier auf wie das gehen kann.
 
+## abhängig?
+
 ## Welche Daten benoetigen Sie
 
 Bevor wir jetzt ganz tief in bestimmte Datenbereiche eintauchen, machen wir es ganz einfach. Teilen Die Ihren Computer einfach in zwei Bereiche auf. Alles was der Computer benötigt (hier am Beispiel Microsoft Windows) kommt auf Laufwerk C: und alles was Sie benötigen kommt auf Laufwerk D:
