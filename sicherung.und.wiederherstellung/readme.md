@@ -29,13 +29,16 @@ Damit ist bereits alles erledigt. Wirklich - ganz einfach. Ja, wirklich. Wir zei
 
 ## Welche Abhängigkeit gehen Sie ein?
 
-Es ist sicher unstrittig dass Sie die zu sichernden Daten besitzen. Es sind Ihre Daten. Wenn wir uns jetzt vergegenwertigen, dass wir Vorsorge für den Fall der Fälle (*Datenverlust*) betreiben, müssen wir über Abhängigkeiten sprechen. Wenn Sie Ihre Daten "bewegen" benötigen Sie dazu ein Werkzeug (*z.B. [robocopy](https://learn.microsoft.com/de-de/windows-server/administration/windows-commands/robocopy)*). Von diesem Werkzeug sind Sie abhängig. Abhängig im Sinne von heute und morgen.
+Es ist sicher unstrittig dass Sie die zu sichernden Daten besitzen. Es sind Ihre Daten. Wenn wir uns jetzt vergegenwertigen, dass wir Vorsorge für den Fall der Fälle (*Datenverlust*) betreiben, müssen wir über Abhängigkeiten sprechen. Wenn Sie Ihre Daten "bewegen" benötigen Sie dazu ein Werkzeug (*z.B. [Microsoft robocopy](https://learn.microsoft.com/de-de/windows-server/administration/windows-commands/robocopy), [Synology Backup-Lösung](https://www.synology.com/de-de/dsm/solution/personal_backup), [Apple Backup](https://support.apple.com/de-de/HT203977), [Datensicherung mit Samsung Cloud](https://www.samsung.com/de/support/apps-services/wie-erstelle-ich-ein-backup-mit-samsung-cloud/)*). Von diesem Werkzeug sind Sie abhängig. Abhängig im Sinne von heute und morgen.
 Wir planen hier ja ein Verfahren um Ihre Daten zuverlässig zu Sichern und in einer unbekannt fernen Zukunft wieder Herzustellen. Damit muss der "Datentransport" auch in Zukunft zuverlässig möglich sein. Hier kommt das Thema Abhängigkeit und Update zum tragen. Nachfolgend einige beispielhafte Fragen:
 - Kann eine neuere Version des Kopierwerkzeuges Daten wiederherstellen, die mit einer älteren Version des Kopierwerkzeuges gesichert worden sind?
 - Ist das Kopierwerkzeug an bestimmte Hardware gebunden?
 - Wie lange werden Sie Updates zu dem Kopierwerkzeuges erhalten, bzw. wer kümmert sich darum und warum?
+- Kann das Kopierwerkzeug alle meine Daten kopieren?
+- Wie geht das Kopierwerkzeug mit Verschlüsselung um?
 
 Ich habe mich hier für eine Abhängigkeit zu [rclone](https://rclone.org/) entschieden weil ...
+
 - ... [rclone](https://github.com/rclone/rclone) open source ist
 - ... [rclone](https://github.com/rclone/rclone) von 652 aktiven und namentlich bekannten Personen weiterentwickelt wird
 - ... [rclone](https://github.com/rclone/rclone) seit 2015 zuverlässig weiterentwickelt wird
