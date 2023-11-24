@@ -5,6 +5,7 @@
 
 - [**Home** (*zurück zu Private Internet Sicherheit*)](https://github.com/hmielimo/private.internet.sicherheit)
 - [Einleitung](#einleitung)
+- [Welche Abhängigkeit gehen Sie ein?](#welche-abhängigkeit-gehen-sie-ein)
 - [Welche Daten benötigen Sie?](#welche-daten-benoetigen-sie)
 - [Wie aktuell soll die Sicherung sein?](#wie-aktuell-soll-die-sicherung-sein)
 - [Wieviel Sicherheit benötigen Sie?](#wieviel-sicherheit-benoetigen-sie)
@@ -26,7 +27,9 @@ Sie haben sich folgende Fragen beantwortet:
 
 Damit ist bereits alles erledigt. Wirklich - ganz einfach. Ja, wirklich. Wir zeigen hier auf wie das gehen kann.
 
-## abhängig?
+## Welche Abhängigkeit gehen Sie ein?
+
+in Bearbeitung
 
 ## Welche Daten benoetigen Sie
 
