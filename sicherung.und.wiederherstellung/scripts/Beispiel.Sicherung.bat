@@ -18,12 +18,13 @@ set do-monat=%mydate:~8,2%
 set do-jahr=%mydate:~5,2%
 IF %do-monat% EQU 01 (GOTO monat-A-TRUE) ELSE (GOTO monat-A-FALSE)
 :monat-A-TRUE
-    IF %do-jahr% EQU 01 (GOTO monat-AA-TRUE) ELSE (GOTO monat-AA-FALSE)
-    :monat-AA-TRUE
-		GOTO monat-A-FALSE
-    :monat-AA-FALSE
+    IF %do-jahr% EQU 01 (GOTO jahr-A-TRUE) ELSE (GOTO jahr-A-FALSE)
+    :jahr-A-TRUE
+        GOTO monat-A-FALSE
+    :jahr-A-FALSE
         SET do-jahr=99
 :monat-A-FALSE
+IF %do-monat% NEQ 01 (SET do-jahr=99)
 REM ------------------------------------------------------------------------------
 REM erzeuge ggf. notwendige Verzeichnisse
 REM ------------------------------------------------------------------------------
