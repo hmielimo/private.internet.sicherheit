@@ -82,7 +82,7 @@ Einen letzten Punkt möchte ich zum Thema Sicherheit erwähnen: Die Verwendung v
 
 ## Die Umsetzung
 
-Jetzt, das Sie wissen was Sie benötigen, lassen Sie uns das einfach umsetzen.
+Jetzt, da Sie wissen was Sie benötigen, lassen Sie uns das einfach umsetzen.
 
 ### Schritt für Schritt
 
