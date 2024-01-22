@@ -84,7 +84,7 @@ Einen letzten Punkt möchte ich zum Thema Sicherheit erwähnen: Die Verwendung v
 
 Jetzt, das Sie wissen was Sie benötigen, lassen Sie uns das einfach umsetzen.
 
-### Die Sicherung
+### Schritt für Schritt
 
 Vorbereitend benötigen Sie zwei Dinge: Ein Speichermedium um die Sicherung abzugelen. Und eine Software um die Sicherung anzufertigen.
 
@@ -99,6 +99,23 @@ Beim Cloudspeicher möchte ich auf eine Besonderheit hinweisen. Mit [Nextcloud](
 Egal für welches Speichermedium sie sich entscheiden am Ende steht es als Laufwerk S: zur Verfügung. Damit können alle Daten von D: nach S: transferiert werden.
 
 Die Software [rclone](https://rclone.org/) die ich privat verwende ist ebenfalls [freie Software](https://de.wikipedia.org/wiki/Freie_Software). Das Script mit dem Sie sichern könnte also in etwa so aussehen.
+
+
+
+| Nr. | Was Sie tun                                  | Erklärung                                         | Wie es aussehen könnte   |
+| --- | -------------------------------------------- | ------------------------------------------------- | ------------------------ |
+|  1. | Verbinden Sie die USB Fetplatte mit Ihrem PC | Auf diese Fetplatte speichern Sie Ihre Sicherung. | <img alt="USB Festplatte" src="images/usb.festplatte.jpg"> |
+|  2. | Laden Sie Software [rclone](https://rclone.org/) herunter. |                                     | <img alt="RCLONE herunterladen" src="images/download.rclone.jpg"> |
+|  3. | Kopieren Sie rclone.exe in ein Verzeichnis Ihrer Wahl. | Die Software steht dann immer z.B. im Verzeichnis C:\Software zur Verfügung.| <img alt="RCLONE verschieben" src="images/rclone.exe.1.jpg"> |
+|  4. | Optional: Laden Sie Software [Cryptomator](https://cryptomator.org/de/downloads/) herunter.  | Wenn Sie Ihre Sicherungen verschlüsseln möchten, benötigen Sie diese Software. | <img alt="Cryptomator herunterladen" src="images/download.cryptomator.jpg"> |
+|  5. | Optional: Entsperren Sie das Sicherungsverzeichnis auf der USB Fetplatte. | | <img alt="Sicherungsverzeichnis entsperren" src="images/cryptomator.decrypt.jpg"> |
+|  6. | Öffnen Sie [Beispiel.Sicherung.bat](scripts/Beispiel.Sicherung.bat) und speichen Sie es auf Ihrer Oberfläche ab. | | <img alt="Beispiel.Sicherung.bat" src="images/Beispiel.Sicherung.bat.jpg"> |
+|  7. | Passen Sie die Zeilen 5 bis 10 auf Ihre Bedürfnisse an. | siehe Nr.3 z.B. set mysync=C:\Software\rclone | <img alt="Parameter anpassen" src="images/edit.Beispiel.Sicherung.bat.jpg"> |
+|  8. | Sichern Sie Ihre Daten mit einem Doppelklick auf Beispiel.Sicherung.bat |  | <img alt="Sicherung" src="images/sicherung.jpg"> |
+
+
+
+### Die Sicherung
 
 ~~~
 set mysync=C:\bin\rclone
