@@ -146,7 +146,7 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 
 ### Konkrete Vertiefung einiger Risikobereiche
 
-- Die Bösen bleiben draußen (*[Meine zentrale Firewall](meine.zentrale.firewall/readme.html)*)
+- Die Bösen bleiben draußen (*[Meine zentrale Firewall](meine.zentrale.firewall/abc)*)
 - Sicher ist sicher (*[Sichere Verwaltung meiner Passwörter](https://github.com/hmielimo/private.internet.sicherheit/tree/main/sichere.verwaltung.meiner.passwoerter)*)
 - Für den Fall der Fälle (*[Datensicherung und Wiederherstellung](https://github.com/hmielimo/private.internet.sicherheit/tree/main/sicherung.und.wiederherstellung)*)
 - [»Ich habe doch nichts zu verbergen!«](https://www.kuketz-blog.de/empfehlungsecke/#verbergen)
