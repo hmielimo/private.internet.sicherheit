@@ -154,7 +154,10 @@ Bitte achten Sie darauf, dass Sie die Anschlußparameter sicher verwahren (*Stic
 - [Sicherheit und Privatsphäre des Saugroboters // Verhindern Sie, dass Ihr Roboter Ihre Daten absaugt - englischer Vortrag auf dem  Chaos Communication Camp 2023](https://media.ccc.de/v/camp2023-57158-vacuum_robot_security_and_privacy#t=1)
 - [Hirne hacken](https://media.ccc.de/v/36c3-11175-hirne_hacken#t=1) von [Linus Neumann](https://de.wikipedia.org/wiki/Linus_Neumann)
 - [Passwort-Sicherheit](https://www.youtube.com/watch?v=DQ7otNJY9jU) von [Dr.-Ing. Davide Bove](https://www.cs1.tf.fau.de/person/davide-bove/) Security Researcher an der FAU (Friedrich-Alexander-Universität Erlangen-Nürnberg)
-
+- [Was wir für Popkorn alles tun.](https://www.youtube.com/watch?v=Z9mzPhBdv9I)
+  - Sehen Sie sich einen Versuch an, der an 220 Kinobesuchern in einem lokalen Kino in den VAE durchgeführt wurde. Dieses Experiment wurde durchgeführt, um auf die zunehmenden Betrugsfälle und Betrügereien in den Regionen aufmerksam zu machen.
+  - Die Idee war, den Menschen bewusst zu machen, wie sie sich schützen und sich vor den zunehmenden Betrügereien in Acht nehmen können. Wachsamkeit und Aufmerksamkeit können sie vor der Gefahr schützen, Geld oder ihre persönliche Identität zu verlieren.
+  - Betrüger und Schwindler nutzen alle möglichen Plattformen und Quellen, um die Opfer anzugreifen und Informationen, persönliche Daten, Ausweise, OTPs und Bankdaten zu stehlen und diese zu verwenden, um ihr Geld zu stehlen oder sich in ihre Bankkonten oder sozialen Kanäle einzuhacken.
 
 ### Videos (*Komplexität einfach erklärt*)
 - [Wie funktioniert das Internet?](https://www.youtube.com/watch?v=fpqhjEtznVk)
